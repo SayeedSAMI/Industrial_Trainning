@@ -3,3 +3,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/SayeedSAMI/Industrial_Trainning.git
 git push -u origin main
+
+feature branch two added inside dev
